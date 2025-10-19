@@ -1,1 +1,6 @@
-Flask pandas yfinance numpy plotly gunicorn  # Web server untuk deployment di Cloud
+Flask
+pandas
+yfinance
+numpy
+plotly
+gunicorn
